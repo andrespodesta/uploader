@@ -105,6 +105,12 @@
  	.instructions > h5 { text-align:center; }
  	.instructions > img { border-bottom:1px solid #CCC; box-shadow:0 1px 0 #FFF; margin-bottom:20px; }
 
+ 	.or { position:absolute; top:-80px; left:435px; font-family: 'Playball', cursive; font-size:36px; background:#f3f3f3; border:1px dotted #CCC; padding:30px 20px 30px 15px;
+ 		-webkit-border-radius:50%;
+ 		-moz-border-radius:50%;
+ 		border-radius:50%;
+ 		box-shadow:inset 0 1px 2px rgba(0,0,0,.6); }
+
 	.box1 { display:inline-block; width:220px; padding:5px 10px; background:#eee; margin:5px 12px 5px 0;
 		-webkit-box-sizing:border-box;
 		-moz-box-sizing:border-box;
